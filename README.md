@@ -2,9 +2,9 @@ demo
 ====
 
 
-- [ ] Lets see if lists work
-- [ ] item
+[ ] Lets see if lists work
+[ ] item
 
 
- - [ ] intended list 
- - [ ] item 2
+[ ] intended list 
+[ ] item 2
