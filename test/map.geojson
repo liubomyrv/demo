@@ -1,0 +1,341 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					null,
+					null
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#800000",
+				"_d88ul": "Org-Members",
+				"_cn6ca": "Vienna",
+				"_cokwr": "Austria",
+				"long": "62197.48.00",
+				"lat": "34792.31.00",
+				"hexcolor": "#800000",
+				"rowNumber": 1
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					null,
+					null
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#800000",
+				"_d88ul": "",
+				"_cn6ca": "Palo Alto, CA",
+				"_cokwr": "USA",
+				"long": "-27363.12.00",
+				"lat": "7406.16.00",
+				"hexcolor": "#800000",
+				"rowNumber": 2
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					null,
+					null
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#800000",
+				"_d88ul": "",
+				"_cn6ca": "Oberpfaffenhofen",
+				"_cokwr": "Germany",
+				"long": "44162.02.00",
+				"lat": "12257.42.00",
+				"hexcolor": "#800000",
+				"rowNumber": 3
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					null,
+					null
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#800000",
+				"_d88ul": "",
+				"_cn6ca": "Lund",
+				"_cokwr": "Sweden",
+				"long": "32170.29.00",
+				"lat": "117209.56.00",
+				"hexcolor": "#800000",
+				"rowNumber": 4
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					null,
+					null
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#800000",
+				"_d88ul": "",
+				"_cn6ca": "Paris",
+				"_cokwr": "France",
+				"long": "58690.54.00",
+				"lat": "142798.56.00",
+				"hexcolor": "#800000",
+				"rowNumber": 5
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					null,
+					null
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#800000",
+				"_d88ul": "",
+				"_cn6ca": "Leuven",
+				"_cokwr": "Belgium",
+				"long": "116920.32.00",
+				"lat": "146556.09.00",
+				"hexcolor": "#800000",
+				"rowNumber": 6
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					null,
+					null
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#800000",
+				"_d88ul": "",
+				"_cn6ca": "Stockholm",
+				"_cokwr": "Sweden",
+				"long": "10236.19.00",
+				"lat": "55185.51.00",
+				"hexcolor": "#800000",
+				"rowNumber": 7
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					null,
+					null
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#800000",
+				"_d88ul": "",
+				"_cn6ca": "Linköping",
+				"_cokwr": "Sweden",
+				"long": "104102.01.00",
+				"lat": "68360.19.00",
+				"hexcolor": "#800000",
+				"rowNumber": 8
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					null,
+					null
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#800000",
+				"_d88ul": "",
+				"_cn6ca": "Braunschweig",
+				"_cokwr": "Germany",
+				"long": "87527.44.00",
+				"lat": "44102.04.00",
+				"hexcolor": "#800000",
+				"rowNumber": 9
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					null,
+					null
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#800000",
+				"_d88ul": "",
+				"_cn6ca": "Hamburg",
+				"_cokwr": "Germany",
+				"long": "20.54.00",
+				"lat": "91776.34.00",
+				"hexcolor": "#800000",
+				"rowNumber": 10
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.7384089767404,
+					null
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#800000",
+				"_d88ul": "",
+				"_cn6ca": "Dresden",
+				"_cokwr": "Germany",
+				"long": "13.7384089767404",
+				"lat": "12772.26.00",
+				"hexcolor": "#800000",
+				"rowNumber": 11
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					null,
+					null
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#800000",
+				"_d88ul": "",
+				"_cn6ca": "Waterloo, ON",
+				"_cokwr": "Canada",
+				"long": "-87043.06.00",
+				"lat": "77635.04.00",
+				"hexcolor": "#800000",
+				"rowNumber": 12
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					null,
+					null
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#800000",
+				"_d88ul": "",
+				"_cn6ca": "Linköping",
+				"_cokwr": "Sweden",
+				"long": "104102.01.00",
+				"lat": "68360.19.00",
+				"hexcolor": "#800000",
+				"rowNumber": 13
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					null,
+					null
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#800000",
+				"_d88ul": "",
+				"_cn6ca": "Lund",
+				"_cokwr": "Sweden",
+				"long": "32170.29.00",
+				"lat": "117209.56.00",
+				"hexcolor": "#800000",
+				"rowNumber": 14
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					null,
+					null
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#800000",
+				"_d88ul": "",
+				"_cn6ca": "Palo Alto, CA",
+				"_cokwr": "USA",
+				"long": "-27363.12.00",
+				"lat": "7406.16.00",
+				"hexcolor": "#800000",
+				"rowNumber": 15
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					null,
+					null
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#800000",
+				"_d88ul": "",
+				"_cn6ca": "Hamburg",
+				"_cokwr": "Germany",
+				"long": "20.54.00",
+				"lat": "91776.34.00",
+				"hexcolor": "#800000",
+				"rowNumber": 16
+			}
+		}
+	]
+}
