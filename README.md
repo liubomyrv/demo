@@ -8,3 +8,4 @@ demo
 - [x]  intended list 
 - [ ] item 2
 foo
+foo
