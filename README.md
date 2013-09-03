@@ -5,7 +5,8 @@ demo
 - [ ] Lets see if lists work
 - [ ] item
 
-- [x]  intended list 
+- [x]  intended list
 - [ ] item 2
 foo
 foo
+$Format:%ad$
