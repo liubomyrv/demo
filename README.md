@@ -9,4 +9,4 @@ demo
 - [ ] item 2
 foo
 foo
-$Format:%ad$
+$Format:%ad(short)$
